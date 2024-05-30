@@ -1,7 +1,4 @@
-# Tauri + Solid + Typescript
+# KempelenChess
+Веб приложение для игры в шахматы.
 
-This template should help get you started developing with Tauri, Solid and Typescript in Vite.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+> [Во́льфганг фон Ке́мпелен](https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BC%D0%BF%D0%B5%D0%BB%D0%B5%D0%BD,_%D0%92%D0%BE%D0%BB%D1%8C%D1%84%D0%B3%D0%B0%D0%BD%D0%B3_%D1%84%D0%BE%D0%BD) - словакский изобретатель автоматических машин. Одно из наиболее интересных изобретений - [шахматный автоматон](https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82), также известный как "[Автомат Кемпелена](https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82)". Принцип его работы был до смешного прост - внутри автомата прятался опытный шахматист, который посредством тяг управлял рукой "[турка](https://www.youtube.com/watch?v=lP6hh7mUC1E)".
